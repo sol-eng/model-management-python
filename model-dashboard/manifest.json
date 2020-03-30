@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "python-dash",
+    "entrypoint": "app"
+  },
+  "locale": "en_US.UTF-8",
+  "python": {
+    "version": "3.6.10",
+    "package_manager": {
+      "name": "pip",
+      "version": "19.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "449c2f6dcf142a18dd6ba1e1dd54f7f5"
+    },
+    "app.py": {
+      "checksum": "c712d56f9e3e615000016a531e09e467"
+    },
+    "assets/resizing_script.js": {
+      "checksum": "113660ccef78863921eafc430f8038f7"
+    },
+    "assets/rstudio-logo.png": {
+      "checksum": "234c1e1299dec09770ca9be55ee0de60"
+    },
+    "assets/s1.css": {
+      "checksum": "462fa6ed87450051ead3051ff01031ad"
+    },
+    "assets/styles.css": {
+      "checksum": "742844f6ad9fe1cefb47d7c4441fd34f"
+    }
+  }
+}

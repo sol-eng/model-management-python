@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "jupyter-static",
+    "entrypoint": "model-a-train.ipynb"
+  },
+  "locale": "en_US.UTF-8",
+  "python": {
+    "version": "3.6.10",
+    "package_manager": {
+      "name": "pip",
+      "version": "19.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "model-a-train.ipynb": {
+      "checksum": "c6cd18059307ba296d84fbb79c1e33c1"
+    },
+    "data/default-of-credit-card clients.xls": {
+      "checksum": "25a64500f543274fd6c9db905bfeb968"
+    },
+    "requirements.txt": {
+      "checksum": "81b8f70131b420c605814ca8c414b133"
+    }
+  }
+}

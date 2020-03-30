@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "python-api",
+    "entrypoint": "app"
+  },
+  "locale": "en_US.UTF-8",
+  "python": {
+    "version": "3.6.10",
+    "package_manager": {
+      "name": "pip",
+      "version": "19.3.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "63ece22e1d97ffcd5034ed5ccced9f45"
+    },
+    "app.py": {
+      "checksum": "192002f4f889a316596387267503b18a"
+    },
+    "data/default-of-credit-card clients.xls": {
+      "checksum": "25a64500f543274fd6c9db905bfeb968"
+    },
+    "model/xgb.model": {
+      "checksum": "df1c34f25d00f0abe01355036117aeee"
+    }
+  }
+}
