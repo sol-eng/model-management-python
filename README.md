@@ -17,7 +17,7 @@ their credit accounts.
 
 The example projects include:
 
-* [Model A - Model Training Notebook](https://colorado.rstudio.com/rsc/model-management/-pythonmodel-a-train/) [[login]](https://colorado.rstudio.com/rsc/connect/#/apps/5177)
+* [Model A - Model Training Notebook](https://colorado.rstudio.com/rsc/model-management-python/model-a-train/) [[login]](https://colorado.rstudio.com/rsc/connect/#/apps/5177)
 * [Model A - REST API Serving Model Predictions](https://colorado.rstudio.com/rsc/model-management-python/model-a-predict/) [[login]](https://colorado.rstudio.com/rsc/connect/#/apps/5182)
 * [Model B - Model Training Notebook](https://colorado.rstudio.com/rsc/model-management-python/model-b-train/) [[login]](https://colorado.rstudio.com/rsc/connect/#/apps/5178)
 * [Model B - REST API Serving Model Predictions](https://colorado.rstudio.com/rsc/model-management-python/model-b-predict/) [[login]](https://colorado.rstudio.com/rsc/connect/#/apps/5183)
