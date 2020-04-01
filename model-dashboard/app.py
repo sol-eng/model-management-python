@@ -84,7 +84,7 @@ app.layout = html.Div(
                     [
                         html.A(
                             html.Button("Learn More", id="learn-more-button"),
-                            href="https://solutions.rstudio.com/model-management/overview/",
+                            href="https://solutions.rstudio.com/model-management/python/",
                         )
                     ],
                     className="one-third column",

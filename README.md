@@ -22,7 +22,7 @@ The example projects include:
 * [Model B - Model Training Notebook](https://colorado.rstudio.com/rsc/model-management-python/model-b-train/) [[login]](https://colorado.rstudio.com/rsc/connect/#/apps/5178)
 * [Model B - REST API Serving Model Predictions](https://colorado.rstudio.com/rsc/model-management-python/model-b-predict/) [[login]](https://colorado.rstudio.com/rsc/connect/#/apps/5183)
 * [REST API Traffic Router for A/B Testing](https://colorado.rstudio.com/rsc/model-management-python/model-router/) [[login]](https://colorado.rstudio.com/rsc/connect/#/apps/5184)
-* [Interactive App to Query and Verify Model Results](https://colorado.rstudio.com/rsc/model-management-python/model-dashboard/) [[login]](https://colorado.rstudio.com/rsc/connect/#/apps/5217)
+* [Interactive App to Query and Verify Model Results](https://colorado.rstudio.com/rsc/model-management-python/model-dashboard/) [[login]](https://colorado.rstudio.com/rsc/connect/#/apps/5271)
 
 ## RStudio Professional Products
 
