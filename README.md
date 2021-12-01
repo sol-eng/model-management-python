@@ -34,4 +34,4 @@ notebooks with details on model training.
 ## Documentation
 
 The full example is documented at
-https://solutions.rstudio.com/model-management/python/.
+https://solutions.rstudio.com/data-science-admin/model-management/python/.
