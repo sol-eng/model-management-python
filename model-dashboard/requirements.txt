@@ -1,3 +1,5 @@
 dash==1.9.1
 pandas==1.0.3
 requests==2.22.0
+dash-core-components>=2.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+dash-html-components>=2.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
