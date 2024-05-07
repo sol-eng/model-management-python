@@ -7,3 +7,4 @@ scipy==1.4.1
 sklearn==0.0
 xgboost==0.90
 xlrd==1.2.0
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
